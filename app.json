@@ -1,0 +1,15 @@
+{
+    "id": "f73383c5-3ee9-461a-acc1-fa27e8e18e0c",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Zolbayar",
+        "homepage": "https://zolbayar.blog/",
+        "support": "https://zolbayar.blog/me/"
+    },
+    "name": "Jokes App",
+    "nameSlug": "jokes-app",
+    "classFile": "JokesAppApp.ts",
+    "description": "Send some jokes with a slash command"
+}
