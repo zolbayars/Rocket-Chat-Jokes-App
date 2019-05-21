@@ -10,6 +10,6 @@
     },
     "name": "Jokes App",
     "nameSlug": "jokes-app",
-    "classFile": "JokesAppApp.ts",
+    "classFile": "JokesApp.ts",
     "description": "Send some jokes with a slash command"
 }
